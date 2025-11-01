@@ -31,14 +31,17 @@ Sou apaixonado por entender como o software funciona por dentro — desmontando,
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=joao200444
+&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao200444
+&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
 
-> 🔔 **Substitua `SEU_USUARIO` pelo seu nome de usuário real no GitHub** para que as estatísticas funcionem corretamente.
+> 🔔 **Substitua `joao200444
+` pelo seu nome de usuário real no GitHub** para que as estatísticas funcionem corretamente.
