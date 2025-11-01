@@ -1,47 +1,45 @@
 # 👨‍💻 Smunk Mod
 
-**`Desenvolvedor C++ | C# | Engenharia Reversa | Unity & Unreal Engine`**
+**`Low-Level Developer | Reverse Engineer | Game Engine Internals`**
 
-Olá! Sou Smunk Mod, desenvolvedor especializado em linguagens de baixo e alto nível como **C++** e **C#**, com sólida experiência em **engenharia reversa**, análise de binários e modificação de software. Atuo também no desenvolvimento e customização de projetos em motores gráficos profissionais, especialmente **Unity** e **Unreal Engine**, explorando desde sistemas de jogo até otimizações de baixo nível.
+Desenvolvedor especializado em **C++** e **C#**, com foco em sistemas de alto desempenho, modificação de binários, análise de protocolos e engenharia reversa de aplicações fechadas. Experiência prática em **reconstrução de estruturas de classes**, **hooking**, **memory manipulation** e **análise estática/dinâmica** utilizando ferramentas como:
 
-Sou apaixonado por entender como o software funciona por dentro — desmontando, reconstruindo e aprimorando sistemas existentes. Minha jornada envolve ferramentas como **IDA Pro**, **x64dbg**, **Ghidra** e ambientes de desenvolvimento como **Visual Studio** e **VS Code**.
+- **IDA Pro** (FLIRT, decompilação, scripting com IDC/Python)
+- **x64dbg** / **x32dbg** (tracing, breakpoints condicionais, plugins)
+- **Ghidra** (análise colaborativa, scripts em Java/Python)
+- **Cheat Engine** (memory scanning, pointer chains)
+
+Atuo principalmente em ambientes de **motores gráficos**, com ênfase em:
+
+- **Unity**: IL2CPP dumping, MonoBehaviour reconstruction, asset bundle analysis, SDK injection
+- **Unreal Engine**: UClass/UObject introspecção, FName/FString dumping, SDK generation, memory layout reverse
+
+Contribuo para o entendimento de **conectividade entre classes e atributos em SDKs/MDKs**, comparando abordagens de geração automática versus reconstrução manual. Tenho interesse contínuo em **completude de SDKs**, **interoperabilidade entre camadas de engine** e **exposição de funcionalidades nativas para scripting**.
+
+Ambientes de desenvolvimento preferenciais:
+- **Visual Studio** (depuração nativa, PDB analysis)
+- **VS Code** (com extensões para C++, C#, e análise de assembly)
 
 ---
 
-### 🛠️ Principais Habilidades & Tecnologias
+### 🛠️ Stack Técnica
 
-<img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Unity" title="Unity" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img align="left" alt="Unreal Engine" title="Unreal Engine" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Visual Studio" title="Visual Studio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Windows" title="Windows Internals" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
-<img align="left" alt="Python" title="Python (para automação e scripts)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/assembly/assembly-original.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Windows API" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<br/>
-<br/>
+<br/><br/>
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joao200444
-&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao200444
-&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
+  <img align="left" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
-> 🔔 **Substitua `joao200444
-` pelo seu nome de usuário real no GitHub** para que as estatísticas funcionem corretamente.
+> 🔧 Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub.
